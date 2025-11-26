@@ -12,6 +12,10 @@
     <RepositoryType>git</RepositoryType>
     <PackAsTool>False</PackAsTool>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Title>Vmix Canon Ptz Tally</Title>
+    <Authors>thespino</Authors>
+    <Description>Vmix Canon Ptz Tally</Description>
+    <PackageProjectUrl>https://go.thespino.dev</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

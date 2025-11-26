@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VmixCanonPtzTally", "VmixCanonPtzTally\VmixCanonPtzTally.csproj", "{3C369C18-C80D-4C99-9116-823F72C9271E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VmixCanonPtzTallySetup", "VmixCanonPtzTallySetup\VmixCanonPtzTallySetup.vdproj", "{5EE0D3B5-BE67-3DED-8FC8-7CB75FE364C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{3C369C18-C80D-4C99-9116-823F72C9271E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C369C18-C80D-4C99-9116-823F72C9271E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C369C18-C80D-4C99-9116-823F72C9271E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE0D3B5-BE67-3DED-8FC8-7CB75FE364C6}.Debug|Any CPU.ActiveCfg = Debug
+		{5EE0D3B5-BE67-3DED-8FC8-7CB75FE364C6}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
